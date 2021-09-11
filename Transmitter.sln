@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31612.314
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Transmitter", "Transmitter\Transmitter.csproj", "{EB2D20C5-6B78-4520-B129-CDC3449AE7D2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EB2D20C5-6B78-4520-B129-CDC3449AE7D2}.Debug|x64.ActiveCfg = Debug|x64
+		{EB2D20C5-6B78-4520-B129-CDC3449AE7D2}.Debug|x64.Build.0 = Debug|x64
+		{EB2D20C5-6B78-4520-B129-CDC3449AE7D2}.Release|x64.ActiveCfg = Release|x64
+		{EB2D20C5-6B78-4520-B129-CDC3449AE7D2}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E1FFFBCA-77AD-43CA-99C2-7FC45CCC4BEA}
+	EndGlobalSection
+EndGlobal
